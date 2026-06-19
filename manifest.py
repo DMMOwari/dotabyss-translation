@@ -44,7 +44,7 @@ class Manifest:
 
     def build(self):
         manifest: dict[str, Any] = {
-            t: file_hash(self._file(t)) for t in self.CONTENT_TYPES
+            t: file_hash(f) for t in self.CONTENT_TYPES if (f := self._file(t)).exists()
         }
 
         manifest["novels"] = {
