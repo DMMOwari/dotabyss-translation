@@ -1,7 +1,5 @@
 {
-    "ability_descriptions": "3306147247f3cb4f34abbf9e0475228c",
-    "descriptions": "ad1e76008ee506d683e433dd5530ca7c",
-    "hash": "249dbe7496c72b57eda7d42b1618f784",
+    "hash": "09561f9462b6962de71e77200eabba30",
     "names": "46b8c51fd1d5f705c0ad3ae260cf0ad4",
     "novels": {
         "evs_10200010101": "ae55af230f68e74d96cd677661d9ce03",
@@ -838,6 +836,5 @@
         "men_10770100001": "efabef65c2a9b91ff5fcdb88d635535e",
         "men_10770100002": "d437928e45b562108093df3a5579407a",
         "men_10770100003": "2f93916b3e9cc76d9390d14026918b47"
-    },
-    "titles": "b512043ae7ca8c3f3661d7317fa64f80"
+    }
 }

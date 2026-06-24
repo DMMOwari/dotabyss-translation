@@ -1,14 +1,26 @@
 {
-    "ability_descriptions": "67d8e91207b095e8d46555021207fdf6",
-    "descriptions": "1871a97286df20fb422d227e92b8dcfe",
-    "hash": "6c202ed0a579fb2792970e48957cdcc8",
+    "hash": "0432c93e7264c89e7e824cc446e2c844",
+    "m_ability_details": "271d985dd1afc1296274b39253364d17",
+    "m_chapter_quests": "6c0e697e00129995abc7af22c846f49c",
+    "m_character_action_skills": "d2cc1b07e8322eda26ea1b860e64127c",
     "m_character_profiles": "d8fe3d8362dac6ab6803834d1c2479f8",
-    "m_dictionary_non_player_characters": "d06b120ba1eab9734736db58ca71260b",
+    "m_dictionary_non_player_characters": "add5d8aaf596f1a303f66f56b5902113",
+    "m_enchantment_details": "00d3566ef6af32e34c049363f138e677",
+    "m_gacha_group_movies": "ced66600aa00cc3213a302358536b2c9",
     "m_nether_code_category_skills": "55b1119eedcfb7484332263256bc20bd",
     "m_nether_codes": "7985fabd693631422fd0c9beaf80cff8",
+    "m_novel_character_skins": "29dd4dd0b67fd493b7b5ef2e0013745d",
+    "m_novel_characters": "a8ce97ac10a900a04a2e2fecabd4987a",
+    "m_novel_events": "125bbb3deb3f7eed39bc81d8f7d3db74",
+    "m_novel_homes": "5da5ef78617fd9cfb084513146724797",
+    "m_novel_mains": "9493de442fd26ab91e03166ed38fe5e5",
+    "m_novel_others": "73d2974a02da7d468ad3618cf36655ab",
+    "m_novel_prologues": "0d34e6ba7ea44cf5bfd01a1904f4e123",
     "m_part_voices": "cce69d802df5eadf94c77581d944c04b",
+    "m_plans": "ec9141360c8adb291ae5d5b05d4d9110",
+    "m_preregist_taverns": "d674fd1665cf148462d71c2a4617c846",
     "m_tavern_character_cards": "e901746e1f8ca51eca3f78ee28a2c5a4",
-    "names": "7cda99282e6af6c9cecd7a1bb1df2489",
+    "names": "e5c7d225f0d711b309258e13f0c2b490",
     "novels": {
         "evs_10200010101": "90a27fd8a8bcddd7cad5d4308c739e00",
         "evs_10200010201": "3b1b1f1559656c57b8f91a85256d79fa",
@@ -844,6 +856,5 @@
         "men_10770100001": "9d1a82f4ce510e26d8c98b87c8140b3e",
         "men_10770100002": "1b67b1638502f472f58d60af11ed3605",
         "men_10770100003": "f74ac5bda4853eeb374d93a4790f4d77"
-    },
-    "titles": "c63a893805576e5f4b0beb6c7a7265e8"
+    }
 }
