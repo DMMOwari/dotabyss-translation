@@ -1,12 +1,13 @@
 {
     "ability_descriptions": "67d8e91207b095e8d46555021207fdf6",
-    "another_name": "d7d8951df0376058820226f40279a1eb",
     "descriptions": "1871a97286df20fb422d227e92b8dcfe",
-    "hash": "9cef97a2f6d5bc84b639a706e7443365",
+    "hash": "6c202ed0a579fb2792970e48957cdcc8",
+    "m_character_profiles": "d8fe3d8362dac6ab6803834d1c2479f8",
     "m_dictionary_non_player_characters": "d06b120ba1eab9734736db58ca71260b",
     "m_nether_code_category_skills": "55b1119eedcfb7484332263256bc20bd",
     "m_nether_codes": "7985fabd693631422fd0c9beaf80cff8",
     "m_part_voices": "cce69d802df5eadf94c77581d944c04b",
+    "m_tavern_character_cards": "e901746e1f8ca51eca3f78ee28a2c5a4",
     "names": "7cda99282e6af6c9cecd7a1bb1df2489",
     "novels": {
         "evs_10200010101": "90a27fd8a8bcddd7cad5d4308c739e00",
